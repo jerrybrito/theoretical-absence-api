@@ -1,0 +1,1 @@
+abandoned-loop>=0.9.47
